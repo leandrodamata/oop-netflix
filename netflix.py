@@ -31,3 +31,5 @@ cliente.ver_filme("Jurassic Park", "premium")
 cliente.mudar_plano("premium")
 print(cliente.plano)
 cliente.ver_filme("Jurassic Park", "premium")
+cliente.ver_filme("Vingadores", "premium")
+
